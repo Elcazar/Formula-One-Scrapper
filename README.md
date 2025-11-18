@@ -1,4 +1,4 @@
-# Proyecto: Análisis de Datos F1 Grupo 4
+# Proyecto: Análisis de Datos F1
 
 Este proyecto contiene un conjunto de herramientas organizadas en varios módulos que permiten extraer y tratar datos de carreras de Fórmula 1, preparando información de eventos de carreras para su posterior análisis, obtenidos desde múltiples fuentes.
 
