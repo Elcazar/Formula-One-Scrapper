@@ -2,13 +2,39 @@
 
 Este proyecto contiene un conjunto de herramientas organizadas en varios módulos que permiten extraer y tratar datos de carreras de Fórmula 1, preparando información de eventos de carreras para su posterior análisis, obtenidos desde múltiples fuentes.
 
-## Autores
 
-- Alejandro Alcázar Mendoza
-- Ana Ling Gil González
-- Raynel Antonio García Bryan
-- Leyre Fontaneda Fernández
+# 🖋️ Authors  
 
+<p align="left">
+  <a href="https://github.com/Elcazar">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <span style="margin-left: 10px;"> Alejandro Alcázar Mendoza</span>
+</p>
+
+
+<p align="left">
+  <a href="https://github.com/SergioFdz05">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <span style="margin-left: 10px;"> Leyre Fontaneda Fernández</span>
+</p>
+
+
+<p align="left">
+  <a href="https://github.com/LuisGV10">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <span style="margin-left: 10px;"> Ana Ling Gil González</span>
+</p>
+
+
+<p align="left">
+  <a href="https://github.com/yagocastillo126">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <span style="margin-left: 10px;"> Raynel Antonio García Bryan</span>
+</p>
 ## Introducción
 
 El proyecto proporciona funciones para:
