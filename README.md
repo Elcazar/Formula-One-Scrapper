@@ -14,7 +14,7 @@ Este proyecto contiene un conjunto de herramientas organizadas en varios módulo
 
 
 <p align="left">
-  <a href="https://github.com/SergioFdz05">
+  <a href="https://github.com/lyr-f">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <span style="margin-left: 10px;"> Leyre Fontaneda Fernández</span>
@@ -22,7 +22,7 @@ Este proyecto contiene un conjunto de herramientas organizadas en varios módulo
 
 
 <p align="left">
-  <a href="https://github.com/LuisGV10">
+  <a href="https://github.com/202306249">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <span style="margin-left: 10px;"> Ana Ling Gil González</span>
@@ -30,7 +30,7 @@ Este proyecto contiene un conjunto de herramientas organizadas en varios módulo
 
 
 <p align="left">
-  <a href="https://github.com/yagocastillo126">
+  <a href="">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <span style="margin-left: 10px;"> Raynel Antonio García Bryan</span>
